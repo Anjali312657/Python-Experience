@@ -1,0 +1,3 @@
+Words translated from English to Italian
+happy = lieto
+love = amore
